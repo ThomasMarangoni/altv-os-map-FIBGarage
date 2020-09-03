@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/h74L53S.png)
 
-# Open Source Map - Blocked Metro Tunnel System - alt:V
+# Open Source Map - FIB Garage - alt:V
 This adds an entry/exit to/from the FIB building. This is only build with probs, so don't expect to much.
 
 ## Installing Dependencies / Installation
